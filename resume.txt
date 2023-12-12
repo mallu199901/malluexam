@@ -1,0 +1,7 @@
+   resume
+name : mallikarjun
+age :18
+gender : male
+email id : malluvatgal12345@gmail.com
+qulification :
+              sslc pass ,diplome in computer science
